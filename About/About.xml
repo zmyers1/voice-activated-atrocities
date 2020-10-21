@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Voice Activated Atrocities</name>
+  <author>Wexit</author>
+  <url>blip</url>
+  <packageId>wex.vaa</packageId>
+  <supportedVersions>
+	<li>1.2</li>
+  </supportedVersions>
+
+	<modDependencies>
+	    <li>
+	      <packageId>brrainz.harmony</packageId>
+	      <displayName>Harmony</displayName>
+	      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+	      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+	    </li>
+	</modDependencies>
+
+	<loadAfter>
+	    <li>brrainz.harmony</li>
+	</loadAfter>
+
+	<description>Command lesser beings to commit great horrors in your name - or not.</description>
+</ModMetaData>
